@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOADLABB2", "OOADLABB2\OOADLABB2.csproj", "{93F2FEC9-243A-483F-9E90-1D2179D50591}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93F2FEC9-243A-483F-9E90-1D2179D50591}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{93F2FEC9-243A-483F-9E90-1D2179D50591}.Debug|anycpu.Build.0 = Debug|anycpu
+		{93F2FEC9-243A-483F-9E90-1D2179D50591}.Release|anycpu.ActiveCfg = Release|anycpu
+		{93F2FEC9-243A-483F-9E90-1D2179D50591}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

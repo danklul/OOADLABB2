@@ -1,0 +1,15 @@
+/Users/danielekroth/Projects/OOAD/OOADLABB2/OOADLABB2/bin/Debug/OOADLABB2.exe
+/Users/danielekroth/Projects/OOAD/OOADLABB2/OOADLABB2/bin/Debug/OOADLABB2.pdb
+/Users/danielekroth/Projects/OOAD/OOADLABB2/OOADLABB2/bin/Debug/Newtonsoft.Json.dll
+/Users/danielekroth/Projects/OOAD/OOADLABB2/OOADLABB2/bin/Debug/System.IO.dll
+/Users/danielekroth/Projects/OOAD/OOADLABB2/OOADLABB2/bin/Debug/System.Net.Http.dll
+/Users/danielekroth/Projects/OOAD/OOADLABB2/OOADLABB2/bin/Debug/System.Runtime.dll
+/Users/danielekroth/Projects/OOAD/OOADLABB2/OOADLABB2/bin/Debug/System.Security.Cryptography.Algorithms.dll
+/Users/danielekroth/Projects/OOAD/OOADLABB2/OOADLABB2/bin/Debug/System.Security.Cryptography.Encoding.dll
+/Users/danielekroth/Projects/OOAD/OOADLABB2/OOADLABB2/bin/Debug/System.Security.Cryptography.Primitives.dll
+/Users/danielekroth/Projects/OOAD/OOADLABB2/OOADLABB2/bin/Debug/System.Security.Cryptography.X509Certificates.dll
+/Users/danielekroth/Projects/OOAD/OOADLABB2/OOADLABB2/bin/Debug/Newtonsoft.Json.xml
+/Users/danielekroth/Projects/OOAD/OOADLABB2/OOADLABB2/obj/Debug/OOADLABB2.csprojAssemblyReference.cache
+/Users/danielekroth/Projects/OOAD/OOADLABB2/OOADLABB2/obj/Debug/OOADLABB2.csproj.CopyComplete
+/Users/danielekroth/Projects/OOAD/OOADLABB2/OOADLABB2/obj/Debug/OOADLABB2.exe
+/Users/danielekroth/Projects/OOAD/OOADLABB2/OOADLABB2/obj/Debug/OOADLABB2.pdb
